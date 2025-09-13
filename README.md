@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)  
 
-
+- 🔗 [Data Analysis With Machine Learning](https://github.com/MuhammedAliTurkan/Data-Analysis-With-Machine-Learning)
