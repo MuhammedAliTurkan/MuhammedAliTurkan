@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ Öne Çıkan Projeler
 
-- 🔗 [Yapay Zeka Temelli Kişi Profil Analiz Uygulaması](https://github.com/kullaniciadiniz/diger-proje](https://github.com/MuhammedAliTurkan/Bitirme-Tezi-Demo)  
+- 🔗 [Yapay Zeka Temelli Kişi Profil Analiz Uygulaması](https://github.com/MuhammedAliTurkan/Bitirme-Tezi-Demo)  
 
-- 🔗 [Captcha Generator](https://github.com/kullaniciadiniz/proje-adi](https://github.com/ileri-java-proje/BM470)  
+- 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)  
 
 
