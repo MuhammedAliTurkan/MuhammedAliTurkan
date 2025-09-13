@@ -61,7 +61,6 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 ![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-black?style=flat-square&logo=pytorch)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=scikitlearn)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-black?style=flat-square&logo=pandas)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square&logo=darkreader)
 ![ResNet](https://img.shields.io/badge/-ResNet-black?style=flat-square&logo=pytorch)
 ![DenseNet](https://img.shields.io/badge/-DenseNet-black?style=flat-square&logo=pytorch)
 ![Xception](https://img.shields.io/badge/-Xception-black?style=flat-square&logo=pytorch)
