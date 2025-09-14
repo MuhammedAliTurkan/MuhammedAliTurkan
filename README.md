@@ -99,6 +99,9 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 Bu projede bir mağazanın müşteri profilini belirlemesi ve satış stratejisi geliştirebilmesi için kameralardan müşterilerin yaş ve cinsiyet analizi yapılmıştır.
 
 
-- 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)  
+- 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)
+
+Bu projede kullanıcı girişlerinde güvenlik amacıyla captcha görselleri oluşturan ve bunları yönetmek için admin paneline sahip java spring tabanlı bir web uygulaması hazırlanmıştır.
+
 
 - 🔗 [Data Analysis With Machine Learning](https://github.com/MuhammedAliTurkan/Data-Analysis-With-Machine-Learning)
