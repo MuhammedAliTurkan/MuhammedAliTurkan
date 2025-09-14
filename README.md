@@ -96,6 +96,8 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 ### 🛠️ Öne Çıkan Projeler
 
 - 🔗 [Yapay Zeka Temelli Kişi Profil Analiz Uygulaması](https://github.com/MuhammedAliTurkan/Bitirme-Tezi-Demo)  
+Bitirme tezim için geliştirdiğim bu uygulamada bir mağazanın müşteri profilini belirlemesi ve satış stratejisi geliştirebilmesi için kameralardan müşterilerin yaş ve cinsiyet analizi yapılmıştır.
+
 
 - 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)  
 
