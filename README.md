@@ -1,4 +1,6 @@
-## Hello there 👋
+## Hello there 👋<img width="55" height="49" alt="image" src="https://github.com/user-attachments/assets/5aa934a0-a088-4b4e-adb2-73fea128949a" />
+
+
 
 <!--
 **MuhammedAliTurkan/MuhammedAliTurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,7 +102,6 @@ Bu projede bir mağazanın müşteri profilini belirlemesi ve satış stratejisi
 
 
 - 🔗 [Captcha Generator](https://github.com/ileri-java-proje/BM470)
-
 Bu projede kullanıcı girişlerinde güvenlik amacıyla captcha görselleri oluşturan ve bunları yönetmek için admin paneline sahip java spring tabanlı bir web uygulaması hazırlanmıştır.
 
 
