@@ -22,20 +22,23 @@ Ben yapay zeka, görüntü işleme, full-stack geliştirme ve IoT alanlarında �
 Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmiştir.
 
 ---
-
-## 🔧 Backend & Sistem Teknolojileri
-
+## Geliştirme yaptığım diller
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
+
+
+## Backend & Sistem Teknolojileri
+
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-black?style=flat-square&logo=spring)
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microgen)
 
 ---
 
-## 🌐 Frontend Teknolojileri
+## Frontend Teknolojileri
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -44,7 +47,7 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 
 ---
 
-## 🗄️ Veritabanı Teknolojileri
+## Veritabanı Teknolojileri
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
@@ -52,7 +55,7 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 
 ---
 
-## 🧠 Yapay Zeka & Görüntü İşleme
+## Yapay Zeka & Görüntü İşleme
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-black?style=flat-square&logo=ffmpeg)
@@ -69,7 +72,7 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 
 ---
 
-## 📦 DevOps ve Sistem Yönetimi
+##  DevOps ve Sistem Yönetimi
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Linux Server](https://img.shields.io/badge/-Linux%20Server-black?style=flat-square&logo=ubuntu)
@@ -78,14 +81,14 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 
 ---
 
-## 📡 IoT & Mesajlaşma Sistemleri
+##  IoT & Mesajlaşma Sistemleri
 
 ![Mosquitto](https://img.shields.io/badge/-Mosquitto-black?style=flat-square&logo=eclipse)
 ![MQTT](https://img.shields.io/badge/-MQTT-black?style=flat-square&logo=mqtt)
 
 ---
 
-## 📐 Yazılım Geliştirme Süreçleri
+##  Yazılım Geliştirme Süreçleri
 
 ![Agile](https://img.shields.io/badge/-Agile-black?style=flat-square&logo=agile)
 ![Scrum](https://img.shields.io/badge/-Scrum-black?style=flat-square&logo=scrum)
@@ -94,7 +97,7 @@ Aşağıda çalıştığım ve deneyim kazandığım teknolojiler listelenmişti
 
 
 
-### 🛠️ Öne Çıkan Projeler
+###  Öne Çıkan Projeler
 
 - 🔗 [Yapay Zeka Temelli Kişi Profil Analiz Uygulaması](https://github.com/MuhammedAliTurkan/Bitirme-Tezi-Demo)  
 Bu projede bir mağazanın müşteri profilini belirlemesi ve satış stratejisi geliştirebilmesi için kameralardan müşterilerin yaş ve cinsiyet analizi yapılmıştır.
