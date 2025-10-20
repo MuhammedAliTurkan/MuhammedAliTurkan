@@ -109,3 +109,5 @@ Bu projede kullanıcı girişlerinde güvenlik amacıyla captcha görselleri olu
 
 - 🔗 [Data Analysis With Machine Learning](https://github.com/MuhammedAliTurkan/Data-Analysis-With-Machine-Learning)
 Bu projede Amerika'da av hayvanlarının değerlerinin tahmini ve veri seti üzerinde çeşitli analiz yöntemleri denenmiştir.
+- 🔗 [Data Analysis With Machine Learning](https://github.com/MuhammedAliTurkan/Data-Analysis-With-Machine-Learning)
+Bu projede Amerika'da av hayvanlarının değerlerinin tahmini ve veri seti üzerinde çeşitli analiz yöntemleri denenmiştir.
