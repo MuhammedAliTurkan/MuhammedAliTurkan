@@ -112,3 +112,5 @@ Bu projede Amerika'da av hayvanlarının değerlerinin tahmini ve veri seti üze
 
 - 🔗 [Cluster](https://github.com/MuhammedAliTurkan/Cluster)
 Cluster; gerçek zamanlı iletişim, sunucular, kanallar, mesajlaşma ve medya paylaşımı özelliklerini barındıran, Discord benzeri bir sohbet uygulamasıdır.
+- 🔗 [Anayasa RAG Chatbot](https://github.com/MuhammedAliTurkan/Anayasa-Rag-Chatbot)
+yüklenen Anayasa PDF’inden yalnızca metne dayanarak soru cevaplayan ve kullanılan kaynakları gösteren yerel (local) bir RAG uygulamasıdır.
